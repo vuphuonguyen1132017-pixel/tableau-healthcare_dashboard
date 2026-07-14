@@ -9,7 +9,7 @@ Healthcare Dataset (Kaggle) - simulated hospital records including patient demog
 
 ## Key Insights
 
-- Patients diagnosed with obesity had the highest average billing amount (approximately $25.6K), although the differences across medical conditions were relatively small. 
+- Patients diagnosed with obesity had the highest average billing amount (approximately $25.6K), although the differences across medical conditions were relatively small. 
 
 - The numbers of elective, emergency, and urgent admissions were distributed fairly evenly, suggesting a balanced pattern of hospital admissions in this dataset. 
 
